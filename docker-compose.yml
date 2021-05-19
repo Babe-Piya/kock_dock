@@ -120,3 +120,4 @@ networks:
   default:
     external:
       name: kong_network
+      
